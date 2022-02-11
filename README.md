@@ -4,7 +4,7 @@ Brasileiro, nascido na cidade de Amparo no interior de São Paulo, amante de pra
 Curto séries, filmes, livros e principalmente jogos!
 To sempre querendo aprender algo novo e que me possibilite usufruir de toda minha criatividade para impactar a vida das pessoas de maneiro possitiva!
 
-Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e me encontro no módulo de Back-End, após uma incrível experinência com o módulo de Front-End.
+Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e me encontro no módulo de Back-End, após uma incrível experiência com o módulo de Front-End.
 
 ## Ferramentas e Tecnologias
 
