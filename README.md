@@ -29,8 +29,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/alxedv/alxedv/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
