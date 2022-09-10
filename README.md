@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Brasileiro, nascido na cidade de Amparo no interior de São Paulo, amante de praticamente tudo quando o assunto é tecnologia. Curto séries, filmes, livros e principalmente jogos! To sempre querendo aprender algo novo e que me possibilite usufruir de toda minha criatividade para impactar a vida das pessoas de maneiro positiva!<br><br>Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e me encontro no módulo de Back-End, após uma incrível experiência com o módulo de Front-End.</p>
+<p align="left">Brasileiro, nascido na cidade de Amparo no interior de São Paulo, amante de praticamente tudo quando o assunto é tecnologia. Curto séries, filmes, livros e principalmente jogos! To sempre querendo aprender algo novo e que me possibilite usufruir de toda minha criatividade para impactar a vida das pessoas de maneiro positiva!<br><br>Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e me encontro no módulo de Ciencia da Computação, após uma incrível experiência com o módulo de Back-End.</p>
 
 ###
 
